@@ -1,0 +1,12 @@
+{
+  "publications": {
+    "Make Robots Talk": ["publications/make-robots-talk"]
+  },
+  "repositories": {
+    "Legacy": ["repositories/old-repos"],
+    "Sensors": ["repositories/vision-repos", "repositories/audio-repos"],
+    "NLP": ["repositories/language-repos"],
+    "KR": ["repositories/brain-repos"],
+    "Others": ["repositories/infrastructure", "repositories/api"]
+  }
+}
