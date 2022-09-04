@@ -1,12 +1,14 @@
 {
   "publications": {
-    "Make Robots Talk": ["publications/make-robots-talk"]
+    "Make Robots Talk": ["publications/make-robots-talk", "publications/make-robots-talk-and-think"]
   },
   "repositories": {
-    "Legacy": ["repositories/old-repos"],
-    "Sensors": ["repositories/vision-repos", "repositories/audio-repos"],
-    "NLP": ["repositories/language-repos"],
-    "KR": ["repositories/brain-repos"],
-    "Others": ["repositories/infrastructure", "repositories/api"]
+    "Legacy": ["repositories/legacy-repos"],
+    "Sensors": ["repositories/vision-repos", "repositories/audio-repos", "repositories/chat-repos"],
+    "NLP": ["repositories/nlu-repos", "repositories/nlg-repos", "repositories/evaluation-repos"],
+    "KRR": ["repositories/krr-repos"],
+    "Applications": ["repositories/app-repos", "repositories/demo-repos"],
+    "Framework": ["repositories/infrastructure-repos", "repositories/backend-repos"],
+    "Others": ["repositories/leftover-repos"]
   }
 }

@@ -15,7 +15,7 @@ const users = [
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
     image: '/img/undraw_open_source.svg',
-    infoLink: 'https://www.facebook.com',
+    infoLink: 'https:/ www.facebook.com',
     pinned: true,
   },
 ];
@@ -38,7 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'repositories/old-repos', label: 'Repos'},
+    {doc: 'repositories/legacy-repos', label: 'Repostories'},
     {doc: 'publications/make-robots-talk', label: 'Publications'},
     {
       href: 'https://github.com/leolani/leolani.github.io/tree/source-docs',
@@ -50,13 +50,13 @@ const siteConfig = {
   //users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/cltl-logo-red.png',
-  footerIcon: 'img/cltl-logo-red.png',
+  headerIcon: 'img/siteicon.png',
+  footerIcon: 'img/siteicon.png',
   favicon: 'img/siteicon.png',
 
   /* path to images for header/footer */
 colors: {
-    primaryColor: '#a64aba',
+    primaryColor: '#7a1091',
     secondaryColor: '#863c96',
   },
 
