@@ -41,7 +41,7 @@ Contributing to this website requires two steps:
 Clone this repository, and checkout the `source-docs` branch
 
 ```sh
-git clone https://github.com/leolano/leolani.github.io
+git clone https://github.com/leolani/leolani.github.io
 cd leolani.github.io
 git checkout source-docs
 ```
