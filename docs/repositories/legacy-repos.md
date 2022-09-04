@@ -1,5 +1,5 @@
 ---
-id: old-repos
+id: legacy-repos
 title: Legacy Repositories
 ---
 
