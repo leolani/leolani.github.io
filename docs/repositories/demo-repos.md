@@ -1,10 +1,11 @@
 ---
-id: app-repos
-title: App Repositories
+id: demo-repos
+title: Demo Repositories
 ---
 
-* [cltl-vad](https://github.com/leolani/cltl-vad): Voice Activity Detection
-* [cltl-asr](https://github.com/leolani/cltl-asr): Automatic Speech Recognition
-* [cltl-speechsynthesis](https://github.com/leolani/cltl-speechsynthesis): Speech Synthesis (Text to Speech)
+* [cltl-demo-component](https://github.com/leolani/cltl-demo-component): Template for creating your own component
+* [cltl-demo](https://github.com/leolani/cltl-demo): Template for creating application specific behavior
+* [cltl-demo-parent](https://github.com/leolani/cltl-demo-parent): Template for creating a running application, assembling several components together
+
 
     

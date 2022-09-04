@@ -1,9 +1,10 @@
 ---
-id: vision-repos
-title: Vision Repositories
+id: audio-repos
+title: Audio Repositories
 ---
 
-* [cltl-object-recognition](https://github.com/leolani/cltl-object-recognition)
-* [cltl-face-recognition](https://github.com/leolani/cltl-face-recognition)
+* [cltl-vad](https://github.com/leolani/cltl-vad): Voice Activity Detection
+* [cltl-asr](https://github.com/leolani/cltl-asr): Automatic Speech Recognition
+* [cltl-speechsynthesis](https://github.com/leolani/cltl-speechsynthesis): Speech Synthesis (Text to Speech)
 
     

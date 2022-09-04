@@ -1,10 +1,8 @@
 ---
-id: app-repos
-title: App Repositories
+id: krr-repos
+title: Knowledge Representation and Reasoning Repositories
 ---
 
-* [cltl-vad](https://github.com/leolani/cltl-vad): Voice Activity Detection
-* [cltl-asr](https://github.com/leolani/cltl-asr): Automatic Speech Recognition
-* [cltl-speechsynthesis](https://github.com/leolani/cltl-speechsynthesis): Speech Synthesis (Text to Speech)
-
-    
+* [cltl-knowldegerepresentation](https://github.com/leolani/cltl-knowldegerepresentation): Knowledge Representation and Reasoning (Brain)
+* [cltl-emissor-data](https://github.com/leolani/cltl-emissor-data): Multimodal Interaction Representation
+* [EMISSOR](https://github.com/leolani/emissor): Multimodal Interaction Annotation Tool

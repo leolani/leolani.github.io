@@ -1,9 +1,8 @@
 ---
-id: nlu-repos
-title: Language Understanding Repositories
+id: nlg-repos
+title: Language Generation Repositories
 ---
 
-* [cltl-vad](https://github.com/leolani/cltl-vad): Voice Activity Detection
-* [cltl-asr](https://github.com/leolani/cltl-asr): Automatic Speech Recognition
-
+* [cltl-languagegeneration](https://github.com/leolani/cltl-languagegeneration): Natural Language Generation (Triple to Text)
+* [cltl-gesturegeneration](https://github.com/leolani/cltl-gesturegeneration): Gesture Generation
     

@@ -1,14 +1,15 @@
 ---
-id: make-robots-talk
-title: Make Robots Talk (2017 - 2019)
+id: make-robots-talk-and-think
+title: Make Robots Talk (2020 - 2024)
 ---
     
-* 2019 
-  * Vossen Piek,  L. Bajčetić, S. Baez, S. Bašić, and B. Kraaijeveld, “Modelling Context Awareness for a Situated Semantic Agent”, in: Proceedings of the 11th International and Interdisciplinary Conference on Modeling and Using Context ([CONTEXT2019](http://context19.disi.unitn.it/)), Trento, Italy, November 20-22, 2019. Also available as Springer [Lecture Notes in Artificial Intelligence: Modeling and Using Context](https://www.springer.com/gp/book/9783030349738), Gabor Bella & Paolo Bouquet (Eds.), Series Volume 11939, DOI10.1007/978-3-030-34974-5, Softcover ISBN978-3-030-34973-8, pp. 238-252.
-  * Vossen P., S. B. Santamaria, L. Bajčetić, S. Basić, and B. Kraaijeveld, “Leolani: a robot that communicates and learns about the shared world,” in Proceedings of the 18th International Semantic Web Conference ([ISWC-2019](https://iswc2019.semanticweb.org/)), New Zealand, October 28-30, 2019.
-  * Vossen, P., S. Báez, L. Bajčetić, S. Bašić and B. Kraaijeveld, ”A communicative robot to learn about us and the world”, in: Proceedings of the 25th International Conference on Computational Linguistics and Intellectual Technologies ([Dialogue 2019](http://www.dialog-21.ru/en/)), Moscow, Russia, May 29 – June 1, 2019.
+* 2022 
+  * Alivanistos, D., Santamaría, S. B., Cochez, M., Kalo, J. C., van Krieken, E., & Thanapalasingam, T. (2022). Prompting as Probing: Using Language Models for Knowledge Base Construction. [arXiv preprint](arXiv:2208.11057).
+  * Baier, T., Santamaria, S. B., & Vossen, P. (2022). A modular architecture for creating multimodal agents. [arXiv preprint](arXiv:2206.00636).
 
-* 2018
-  * Vossen P.,S. Báez, L. Bajčetić, B. Kraaijeveld, “Leolani: a reference machine with a theory of mind for social communication”, in: Proceedings of Text, Speech, and Dialogue, 21st International Conference (TSD 2018), Springer [Lecture Notes in Computer Science book series](https://link-springer-com.vu-nl.idm.oclc.org/bookseries/558) (LNCS, volume 11107) and also [Lecture Notes in Artificial Intelligence book sub series](https://www.springer.com/series/1244) (LNAI, volume 11107), Brno, Czech Republic, September 11-14, 2018.
+* 2021
+  * Baez Santamaria, S., Baier, T., Kim, T., Krause, L., Kruijt, J., & Vossen, P. (2021). EMISSOR: A platform for capturing multimodal interactions as episodic memories and interpretations with situated scenario-based ontological references. In Proceedings of the [First workshop Beyond Language: Multimodal Semantic Representations in conjunction with IWCS 2022](https://arxiv.org/abs/2105.08388)
   
+* 2020
+  * Krause, L., & Vossen, P. (2020). When to explain: Identifying explanation triggers in human-agent interaction. In J. M. Alonso, & A. Catala (Eds.), 2nd Workshop on interactive natural language technology for explainable artificial intelligence (pp. 55-60). [ACL Anthology.](https://aclanthology.org/2020.nl4xai-1.12/)
   
