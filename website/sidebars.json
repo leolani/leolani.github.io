@@ -7,7 +7,7 @@
     "Sensors": ["repositories/vision-repos", "repositories/audio-repos", "repositories/chat-repos"],
     "NLP": ["repositories/nlu-repos", "repositories/nlg-repos", "repositories/evaluation-repos"],
     "KRR": ["repositories/krr-repos"],
-    "Applications": ["repositories/app-repos", "repositories/demo-repos"],
+    "Applications": ["repositories/app-repos", "repositories/agent-repos"],
     "Framework": ["repositories/infrastructure-repos", "repositories/backend-repos"],
     "Others": ["repositories/leftover-repos"]
   }
